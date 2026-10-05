@@ -236,8 +236,7 @@ The XGBoost model was tuned using `RandomizedSearchCV` with 5-fold cross-validat
 
 ## Author
 
-P Lakshmi Sravani
-- GitHub: [sravani1406](https://github.com/sravani1406)
+P Ruthu Kumari
 
 ---
 
