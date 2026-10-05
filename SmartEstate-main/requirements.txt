@@ -1,0 +1,26 @@
+# ---- Core data / ML ----
+pandas
+numpy
+scikit-learn
+xgboost
+joblib
+shap
+
+# ---- Original Streamlit app ----
+streamlit
+matplotlib
+seaborn
+reportlab
+streamlit-folium
+folium
+geopy
+requests
+
+# ---- FastAPI backend (for the React frontend) ----
+fastapi
+uvicorn[standard]
+pydantic
+python-multipart
+
+# ---- Phase 7 (future): price forecasting ----
+# prophet   # heavy dependency; uncomment when forecast_service.py is redesigned
